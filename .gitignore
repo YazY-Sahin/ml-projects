@@ -1,0 +1,10 @@
+# Virtual environment (too big, and rebuildable from requirements.txt)
+.venv/
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# Too large for GitHub
+household_power_consumption.txt
